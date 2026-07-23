@@ -66,11 +66,30 @@ I'm not a "learn every syntax" kind of dev — I'm the guy who knows exactly wha
 
 ### <img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/hammer-and-wrench.webp" width="24" align="center" /> tech stack
 
-<div align="center">
+<table width="100%">
+<tr>
+<td align="center" width="25%">
 
-<img src="https://skillicons.dev/icons?i=py,mongodb,sqlite,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py&theme=dark" width="42" /><br/><sub><b>Python</b></sub>
 
-</div>
+</td>
+<td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="42" /><br/><sub><b>MongoDB</b></sub>
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="42" /><br/><sub><b>SQLite</b></sub>
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="42" /><br/><sub><b>PostgreSQL</b></sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
