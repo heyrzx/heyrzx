@@ -16,6 +16,12 @@
 <tr>
 <td width="55%" valign="middle">
 
+building telegram bots.
+
+AI writes half the code.
+I debug the other half.
+sometimes the bugs debug me.
+
 my commits say "fix".
 the bugs say "see you tomorrow.".
 
