@@ -26,7 +26,7 @@ and code into something that actually works.
 The keyboard is mostly Ctrl+C, Ctrl+V,
 with a little "why doesn't this work?" in between..
 
-> *"First, solve the problem. Then, let the AI write the code."*
+> *"Ideas are mine. AI just types faster."*
 
 <img src="https://graph.org/file/5ca547f9b074e32bc1c20-bb2da1bb0d501885c6.jpg" width="100%" style="border-radius:12px; margin-top:10px;" />
 
