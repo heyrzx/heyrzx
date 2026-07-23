@@ -29,7 +29,7 @@ I'm not a **"learn every syntax"** kind of dev — I'm the guy who knows exactly
 </td>
 <td width="45%" valign="middle" align="center">
 
-<img src="https://graph.org/file/32263c6970e65ba77492e-b6aa256f4d9f3b04e4.jpg" width="100%" style="border-radius:12px;" />
+<img src="https://graph.org/file/0eac31ee47adeea8623fa-031961d3ad30f6e0ec.jpg" width="100%" style="border-radius:12px;" />
 
 </td>
 </tr>
