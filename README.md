@@ -41,22 +41,22 @@ I'm not a "learn every syntax" kind of dev — I'm the guy who knows exactly wha
 <tr>
 <td align="center" width="25%">
 
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/claude-color.svg" width="42" /><br/><sub><b>Claude</b></sub>
 
 </td>
 <td align="center" width="25%">
 
-![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-webp/latest/files/dark/githubcopilot.webp" width="42" /><br/><sub><b>GitHub Copilot</b></sub>
 
 </td>
 <td align="center" width="25%">
 
-![Jules](https://img.shields.io/badge/Jules-4285F4?style=for-the-badge&logo=google&logoColor=white)
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/gemini-color.svg" width="42" /><br/><sub><b>Jules</b></sub>
 
 </td>
 <td align="center" width="25%">
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-webp/latest/files/dark/openai.webp" width="42" /><br/><sub><b>ChatGPT</b></sub>
 
 </td>
 </tr>
@@ -66,30 +66,11 @@ I'm not a "learn every syntax" kind of dev — I'm the guy who knows exactly wha
 
 ### <img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/hammer-and-wrench.webp" width="24" align="center" /> tech stack
 
-<table width="100%">
-<tr>
-<td align="center" width="25%">
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=py,mongodb,sqlite,postgres&theme=dark" />
 
-</td>
-<td align="center" width="25%">
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</td>
-<td align="center" width="25%">
-
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-</td>
-<td align="center" width="25%">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
