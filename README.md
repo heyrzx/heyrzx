@@ -35,19 +35,6 @@ I'm not a "learn every syntax" kind of dev — I'm the guy who knows exactly wha
 
 ---
 
-### <img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/brain.webp" width="24" align="center" /> how i build
-
-<table width="100%">
-<tr>
-<td align="center" width="25%"><img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/light-bulb.webp" width="48" /><br><b>idea</b></td>
-<td align="center" width="25%"><img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/robot.webp" width="48" /><br><b>prompt the AI</b></td>
-<td align="center" width="25%"><img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/test-tube.webp" width="48" /><br><b>test the bot</b></td>
-<td align="center" width="25%"><img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/rocket.webp" width="48" /><br><b>ship to telegram</b></td>
-</tr>
-</table>
-
----
-
 ### <img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/robot.webp" width="24" align="center" /> my AI co-pilots
 
 <table width="100%">
