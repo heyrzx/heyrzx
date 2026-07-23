@@ -20,7 +20,7 @@ I'm not a **"learn every syntax"** kind of dev — I'm the guy who knows exactly
 
 > *"First, solve the problem. Then, let the AI write the code."*
 
-<img src="https://graph.org/file/bc3fd6785d1d72f7c67c8-cc7a28b25fb0e4528c.jpg" width="100%" style="border-radius:12px; margin-top:10px;" />
+<img src="https://graph.org/file/5ca547f9b074e32bc1c20-bb2da1bb0d501885c6.jpg" width="100%" style="border-radius:12px; margin-top:10px;" />
 
 </td>
 <td width="45%" valign="middle" align="center">
