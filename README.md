@@ -42,7 +42,7 @@ Think of me as the product manager for a team of AI engineers that never sleeps:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d1a,100:1a1a2e&text=AI%20Toolkit%20and%20Tech%20Stack&fontColor=c8b8ff&fontSize=26&fontAlign=50&fontAlignY=60&height=70&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d1a,100:1a1a2e&text=Ai%20Tools%20and%20Tech%20Stack&fontColor=c8b8ff&fontSize=26&fontAlign=50&fontAlignY=60&height=70&animation=fadeIn" width="100%" />
 
 </div>
 
