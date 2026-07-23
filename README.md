@@ -2,11 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=hey,%20it's%20rizh&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=telegram%20bot%20dev%20%E2%80%A2%20AI-orchestrated%20builds&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://files.catbox.moe/r6bisa.jpg" width="140" style="border-radius:16px;" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=800&color=C77DFF&center=true&vCenter=true&width=560&lines=I+don't+write+code%2C+I+direct+it+%F0%9F%8E%AC;prompting+Claude%2C+Copilot%2C+Jules+%26+GPT+daily;telegram+bots+are+my+love+language+%F0%9F%A4%96" alt="Typing SVG" />
-</a>
+<img src="https://files.catbox.moe/r6bisa.jpg" width="100%" style="border-radius:16px;" />
 
 </div>
 
