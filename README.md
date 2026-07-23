@@ -1,6 +1,6 @@
 <div align="center">
 
-<video src="https://graph.org/file/5f39df911ce8b3a1fbcd4-f9dc0c068dea9f9fe1.mp4" width="100%" style="border-radius:16px;" />
+<img src="demo.gif" width="100%" style="border-radius:16px;" />
 
 </div>
 
@@ -10,7 +10,7 @@
 <tr>
 <td width="60%" valign="top">
 
-### 🧠 about me
+### <img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/brain.webp" width="24" align="center" /> about me
 
 I'm not a "learn every syntax" kind of dev — I'm the guy who knows exactly what a bot *should* do, and gets **Claude**, **Copilot**, **Jules**, and **GPT** to write it while I review, test, and ship. Think of me as the product manager for a team of AI engineers that never sleeps.
 
@@ -23,11 +23,11 @@ I'm not a "learn every syntax" kind of dev — I'm the guy who knows exactly wha
 
 | | |
 |---|---|
-| 🧑‍💻 role | telegram bot builder |
-| 🛠️ build style | AI-orchestrated |
-| 📱 telegram | `@rzxbots` |
-| 🎯 focus | bots that just work |
-| 🚀 status | building something new |
+| <img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/technologist.webp" width="18" align="center" /> role | telegram bot builder |
+| <img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/hammer-and-wrench.webp" width="18" align="center" /> build style | AI-orchestrated |
+| <img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/mobile-phone.webp" width="18" align="center" /> telegram | [@rzxbots](https://t.me/rzxbots) |
+| <img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/bullseye.webp" width="18" align="center" /> focus | bots that just work |
+| <img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/rocket.webp" width="18" align="center" /> status | building something new |
 
 </td>
 </tr>
@@ -35,20 +35,20 @@ I'm not a "learn every syntax" kind of dev — I'm the guy who knows exactly wha
 
 ---
 
-### 🧠 how i build
+### <img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/brain.webp" width="24" align="center" /> how i build
 
 <table width="100%">
 <tr>
-<td align="center" width="25%">💡<br><b>idea</b></td>
-<td align="center" width="25%">🤖<br><b>prompt the AI</b></td>
-<td align="center" width="25%">🧪<br><b>test the bot</b></td>
-<td align="center" width="25%">🚀<br><b>ship to telegram</b></td>
+<td align="center" width="25%"><img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/light-bulb.webp" width="48" /><br><b>idea</b></td>
+<td align="center" width="25%"><img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/robot.webp" width="48" /><br><b>prompt the AI</b></td>
+<td align="center" width="25%"><img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/test-tube.webp" width="48" /><br><b>test the bot</b></td>
+<td align="center" width="25%"><img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/rocket.webp" width="48" /><br><b>ship to telegram</b></td>
 </tr>
 </table>
 
 ---
 
-### 🤖 my AI co-pilots
+### <img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/robot.webp" width="24" align="center" /> my AI co-pilots
 
 <table width="100%">
 <tr>
@@ -77,7 +77,7 @@ I'm not a "learn every syntax" kind of dev — I'm the guy who knows exactly wha
 
 ---
 
-### 🛠️ tech stack
+### <img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/hammer-and-wrench.webp" width="24" align="center" /> tech stack
 
 <table width="100%">
 <tr>
@@ -106,7 +106,7 @@ I'm not a "learn every syntax" kind of dev — I'm the guy who knows exactly wha
 
 ---
 
-### 📊 stats
+### <img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/chart-increasing.webp" width="24" align="center" /> stats
 
 <div align="center">
 
@@ -119,7 +119,7 @@ I'm not a "learn every syntax" kind of dev — I'm the guy who knows exactly wha
 
 ---
 
-### 📈 contribution snake
+### <img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/snake.webp" width="24" align="center" /> contribution snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" />
@@ -127,7 +127,7 @@ I'm not a "learn every syntax" kind of dev — I'm the guy who knows exactly wha
 
 ---
 
-### 🌐 connect
+### <img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/globe-with-meridians.webp" width="24" align="center" /> connect
 
 <div align="center">
 
@@ -145,5 +145,5 @@ I'm not a "learn every syntax" kind of dev — I'm the guy who knows exactly wha
 </div>
 
 <div align="center">
-crafted with 🖤 by <b>rizh</b> — mostly by telling AI what to do, honestly
+crafted with <img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/black-heart.webp" width="16" align="center" /> by <b>rizh</b> — mostly by telling AI what to do, honestly
 </div>
