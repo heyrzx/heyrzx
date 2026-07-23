@@ -12,9 +12,9 @@
 
 ### <img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/brain.webp" width="24" align="center" /> about me
 
-I'm not a "learn every syntax" kind of dev — I'm the guy who knows exactly what a bot *should* do, and gets **Claude**, **Copilot**, **Jules**, and **GPT** to write it while I review, test, and ship. Think of me as the product manager for a team of AI engineers that never sleeps.
+I am not the kind of developer who memorizes every syntax line by line. I build Telegram bots by knowing exactly what they should do, then I let **Claude**, **GitHub Copilot**, **Jules**, and **GPT** help write the code while I review, test, and ship it.
 
-> *"First, solve the problem. Then, let the AI write the code."*
+> *First, solve the problem. Then let the AI help build the solution.*
 
 </td>
 <td width="40%" valign="top">
@@ -35,29 +35,25 @@ I'm not a "learn every syntax" kind of dev — I'm the guy who knows exactly wha
 
 ---
 
-### <img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/robot.webp" width="24" align="center" /> my AI co-pilots
+### <img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/robot.webp" width="24" align="center" /> my ai co-pilots
 
 <table width="100%">
 <tr>
 <td align="center" width="25%">
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-
+<img src="https://cdn.simpleicons.org/anthropic" height="58" alt="Claude" /><br>
+<b>Claude</b>
 </td>
 <td align="center" width="25%">
-
-![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-
+<img src="https://cdn.simpleicons.org/google" height="58" alt="Jules" /><br>
+<b>Jules</b>
 </td>
 <td align="center" width="25%">
-
-![Jules](https://img.shields.io/badge/Jules-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
+<img src="https://cdn.simpleicons.org/githubcopilot" height="58" alt="GitHub Copilot" /><br>
+<b>GitHub Copilot</b>
 </td>
 <td align="center" width="25%">
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-
+<img src="https://cdn.simpleicons.org/openai" height="58" alt="GPT" /><br>
+<b>GPT</b>
 </td>
 </tr>
 </table>
@@ -69,24 +65,47 @@ I'm not a "learn every syntax" kind of dev — I'm the guy who knows exactly wha
 <table width="100%">
 <tr>
 <td align="center" width="25%">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+<img src="https://cdn.simpleicons.org/python" height="58" alt="Python" /><br>
+<b>Python</b>
 </td>
 <td align="center" width="25%">
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
+<img src="https://cdn.simpleicons.org/mongodb" height="58" alt="MongoDB" /><br>
+<b>MongoDB</b>
 </td>
 <td align="center" width="25%">
-
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
+<img src="https://cdn.simpleicons.org/sqlite" height="58" alt="SQLite3" /><br>
+<b>SQLite3</b>
 </td>
 <td align="center" width="25%">
+<img src="https://cdn.simpleicons.org/postgresql" height="58" alt="PostgreSQL" /><br>
+<b>PostgreSQL</b>
+</td>
+</tr>
+</table>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+<br>
 
+<table width="100%">
+<tr>
+<td align="center" width="20%">
+<img src="https://cdn.simpleicons.org/git" height="54" alt="Git" /><br>
+<b>Git</b>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.simpleicons.org/github" height="54" alt="GitHub" /><br>
+<b>GitHub</b>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.simpleicons.org/vscode" height="54" alt="VS Code" /><br>
+<b>VS Code</b>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.simpleicons.org/docker" height="54" alt="Docker" /><br>
+<b>Docker</b>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.simpleicons.org/gnubash" height="54" alt="Bash" /><br>
+<b>Bash</b>
 </td>
 </tr>
 </table>
