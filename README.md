@@ -5,8 +5,12 @@
 <img src="https://avatars.githubusercontent.com/u/92094675?v=4" width="120" style="border-radius:50%;" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=800&color=C77DFF&center=true&vCenter=true&width=560&lines=I+don't+write+code%2C+I+direct+it+%F0%9F%8E%AC;prompting+Claude%2C+GPT%2C+DeepSeek+%26+Jules+daily;telegram+bots+are+my+love+language+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=800&color=C77DFF&center=true&vCenter=true&width=560&lines=I+don't+write+code%2C+I+direct+it+%F0%9F%8E%AC;prompting+Claude%2C+Copilot%2C+Jules+%26+GPT+daily;telegram+bots+are+my+love+language+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
+
+<br><br>
+
+> *"First, solve the problem. Then, let the AI write the code."*
 
 </div>
 
@@ -21,14 +25,15 @@
 
 </div>
 
-I'm not a "learn every syntax" kind of dev — I'm the guy who knows exactly what a bot *should* do, and gets Claude, GPT, DeepSeek, and Jules to write it while I review, test, and ship. Think of me as the product manager for a team of AI engineers that never sleeps.
+I'm not a "learn every syntax" kind of dev — I'm the guy who knows exactly what a bot *should* do, and gets Claude, Copilot, Jules, and GPT to write it while I review, test, and ship. Think of me as the product manager for a team of AI engineers that never sleeps.
 
 ```yaml
 name: rizh
 handle: heyrzx
 role: telegram bot builder
 build_style: AI-orchestrated (prompt engineering > syntax memorizing)
-daily_drivers: [Claude, ChatGPT, DeepSeek, Jules]
+daily_drivers: [Claude, GitHub Copilot, Jules, ChatGPT]
+stack: [Python, MongoDB, SQL]
 telegram: "@rzxbots"
 motto: build in public · prompt in the open 🚀
 ```
@@ -39,18 +44,18 @@ motto: build in public · prompt in the open 🚀
 
 <div align="center">
 
-![Claude](https://img.shields.io/badge/Claude-D4A27F?style=for-the-badge&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-536AF5?style=for-the-badge&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Jules](https://img.shields.io/badge/Jules-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
-### 🛠️ the actual toolbox
+### 🛠️ tech stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,telegram,git,github,vscode,linux,docker,html,css,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,mongodb,mysql&theme=dark" />
 
 </div>
 
