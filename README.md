@@ -18,10 +18,6 @@
 
 I'm not a **"learn every syntax"** kind of dev — I'm the guy who knows exactly what a bot *should* do, then gets **Claude**, **Copilot**, **Jules**, and **GPT** to build it while I architect, review, test, and ship. I spend my time thinking in systems and specs, not memorizing framework docs — the AI handles syntax, I handle judgment.
 
-Think of me as the product manager for a team of AI engineers that never sleeps: I break the problem down, hand out the right task to the right model, review every diff line by line, and stitch the results into something that actually works in production — not just in a demo.
-
-My workflow is simple: define the problem clearly, pick the right model for the job, iterate fast, test relentlessly, and never ship anything I haven't personally verified. The tools change every month; the discipline of solving the right problem doesn't.
-
 > *"First, solve the problem. Then, let the AI write the code."*
 
 </td>
