@@ -16,13 +16,23 @@
 <tr>
 <td width="55%" valign="middle">
 
-I'm not a **"learn every syntax"** kind of dev — I'm the guy who knows exactly what a bot *should* do, and gets **Claude**, **Copilot**, **Jules**, and **GPT** to write it while I review, test, and ship. Think of me as the product manager for a team of AI engineers that never sleeps.
+I'm not a **"learn every syntax"** kind of dev — I'm the guy who knows exactly what a bot *should* do, then gets **Claude**, **Copilot**, **Jules**, and **GPT** to build it while I architect, review, test, and ship. I spend my time thinking in systems and specs, not memorizing framework docs — the AI handles syntax, I handle judgment.
+
+Think of me as the product manager for a team of AI engineers that never sleeps: I break the problem down, hand out the right task to the right model, and stitch the results into something that actually works in production.
 
 > *"First, solve the problem. Then, let the AI write the code."*
 
+</td>
 <td width="45%" valign="middle" align="center">
 
 <img src="https://graph.org/file/0eac31ee47adeea8623fa-031961d3ad30f6e0ec.jpg" width="100%" style="border-radius:12px;" />
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=heyrzx&color=6352ff&style=flat-square&label=profile+views)
 
 </td>
 </tr>
@@ -32,7 +42,7 @@ I'm not a **"learn every syntax"** kind of dev — I'm the guy who knows exactly
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d1a,100:1a1a2e&text=Stack%20%26%20Co-Pilots&fontColor=c8b8ff&fontSize=26&fontAlign=50&fontAlignY=60&height=70&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d1a,100:1a1a2e&text=AI%20Toolkit%20and%20Tech%20Stack&fontColor=c8b8ff&fontSize=26&fontAlign=50&fontAlignY=60&height=70&animation=fadeIn" width="100%" />
 
 </div>
 
@@ -125,13 +135,5 @@ I'm not a **"learn every syntax"** kind of dev — I'm the guy who knows exactly
 <br><br>
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=heyrzx&color=6352ff&style=flat-square&label=profile+views)
 
 </div>
