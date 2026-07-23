@@ -28,12 +28,12 @@ with a little *"why doesn't this work?"* in between..
 
 > *"Ideas are mine. AI just types faster."*
 
-<img src="https://graph.org/file/5ca547f9b074e32bc1c20-bb2da1bb0d501885c6.jpg" width="100%" style="border-radius:12px; margin-top:10px;" />
+<img src="spider.jpg" width="100%" style="border-radius:12px; margin-top:10px;" />
 
 </td>
 <td width="45%" valign="middle" align="center">
 
-<img src="https://graph.org/file/0eac31ee47adeea8623fa-031961d3ad30f6e0ec.jpg" width="100%" style="border-radius:12px;" />
+<img src="cassette.jpg" width="100%" style="border-radius:12px;" />
 
 </td>
 </tr>
