@@ -20,6 +20,8 @@ I'm not a **"learn every syntax"** kind of dev — I'm the guy who knows exactly
 
 > *"First, solve the problem. Then, let the AI write the code."*
 
+<img src="https://graph.org/file/bc3fd6785d1d72f7c67c8-cc7a28b25fb0e4528c.jpg" width="100%" style="border-radius:12px; margin-top:10px;" />
+
 </td>
 <td width="45%" valign="middle" align="center">
 
@@ -27,14 +29,17 @@ I'm not a **"learn every syntax"** kind of dev — I'm the guy who knows exactly
 
 </td>
 </tr>
-<tr>
-<td colspan="2" align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=heyrzx&color=6352ff&style=flat-square&label=profile+views)
-
-</td>
-</tr>
 </table>
+
+<br>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=heyrzx&color=6352ff&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<br>
 
 ---
 
