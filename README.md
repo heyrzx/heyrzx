@@ -33,7 +33,7 @@ with a little *"why doesn't this work?"* in between..
 </td>
 <td width="45%" valign="middle" align="center">
 
-<img src="cassette.jpg" width="100%" style="border-radius:12px;" />
+<img src="brain.jpg" width="100%" style="border-radius:12px;" />
 
 </td>
 </tr>
