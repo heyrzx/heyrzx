@@ -34,7 +34,7 @@ with a little *"why doesn't this work?"* in between..
 
 <br>
 
-<div align="left">
+<div align="centre">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=heyrzx&color=6352ff&style=for-the-badge&label=PROFILE+VIEWS)
 
