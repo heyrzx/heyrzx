@@ -16,15 +16,15 @@
 <tr>
 <td width="55%" valign="middle">
 
-I don't know every syntax,
+I don't know **every syntax**,
 and I don't pretend to.
 
-I know how to turn ideas into prompts,
-prompts into code,
-and code into something that actually works.
+I know how to turn *ideas* into **prompts**,
+**prompts** into *code*,
+and *code* into something that **actually works**.
 
-The keyboard is mostly Ctrl+C, Ctrl+V,
-with a little "why doesn't this work?" in between..
+The keyboard is mostly `Ctrl+C`, `Ctrl+V`,
+with a little *"why doesn't this work?"* in between..
 
 > *"Ideas are mine. AI just types faster."*
 
