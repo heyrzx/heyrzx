@@ -26,7 +26,7 @@ with a little *"why doesn't this work?"* in between..
 
 </div>
 
-<div align="center">
+<div align="left">
 
 > *"Ideas are mine. AI just types faster."*
 
@@ -34,7 +34,7 @@ with a little *"why doesn't this work?"* in between..
 
 <br>
 
-<div align="center">
+<div align="left">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=heyrzx&color=6352ff&style=for-the-badge&label=PROFILE+VIEWS)
 
