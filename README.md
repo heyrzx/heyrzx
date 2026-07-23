@@ -1,198 +1,109 @@
 <div align="center">
 
-<!-- ══════════════════════════════ HEADER ══ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=hey,%20it's%20rizh&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=telegram%20bot%20dev%20%E2%80%A2%20AI-orchestrated%20builds&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d0d1a,50:1a0a3a,100:0a1a2a&text=rizh&fontSize=100&fontColor=c8b8ff&animation=fadeIn&fontAlignY=50&stroke=6352ff&strokeWidth=2&desc=developer%20%7C%20bot%20builder%20%7C%20open%20source%20explorer&descSize=15&descColor=5d6a8a&descAlignY=68" width="100%"/>
+<img src="https://avatars.githubusercontent.com/u/92094675?v=4" width="120" style="border-radius:50%;" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=800&color=C77DFF&center=true&vCenter=true&width=560&lines=I+don't+write+code%2C+I+direct+it+%F0%9F%8E%AC;prompting+Claude%2C+GPT%2C+DeepSeek+%26+Jules+daily;telegram+bots+are+my+love+language+%F0%9F%A4%96" alt="Typing SVG" />
+</a>
 
 </div>
 
-<br/>
+<br>
+
+### 🧠 how i build
 
 <div align="center">
 
-![](https://img.shields.io/badge/⚡_Status-Building_in_Public-6352ff?style=for-the-badge&labelColor=0d0d1a)
-&ensp;
-![](https://img.shields.io/badge/🌱_Learning-Python_%26_Bots-14b882?style=for-the-badge&labelColor=0d0d1a)
-&ensp;
-![](https://img.shields.io/badge/🤝_Open_To-Collabs-fb923c?style=for-the-badge&labelColor=0d0d1a)
+| 💡 idea | ➡️ | 🤖 prompt the AI | ➡️ | 🧪 test the bot | ➡️ | 🚀 ship to telegram |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 </div>
 
-<br/>
-<br/>
+I'm not a "learn every syntax" kind of dev — I'm the guy who knows exactly what a bot *should* do, and gets Claude, GPT, DeepSeek, and Jules to write it while I review, test, and ship. Think of me as the product manager for a team of AI engineers that never sleeps.
 
----
-
-<!-- ══════════════════════════════ WHOAMI ══ -->
-
-```python
-# ── profile ─────────────────────────────────────────────────────
-
-class Rizh:
-    name       = "rizh"
-    role       = "beginner developer"
-    learning   = ["Python", "Telegram Bots", "Automation"]
-    interests  = ["Open Source", "Linux", "Docker"]
-    telegram   = "@rzxbots"
-    motto      = "build in public · learn in the open 🚀"
+```yaml
+name: rizh
+handle: heyrzx
+role: telegram bot builder
+build_style: AI-orchestrated (prompt engineering > syntax memorizing)
+daily_drivers: [Claude, ChatGPT, DeepSeek, Jules]
+telegram: "@rzxbots"
+motto: build in public · prompt in the open 🚀
 ```
 
-<br/>
+---
+
+### 🤖 my AI co-pilots
+
+<div align="center">
+
+![Claude](https://img.shields.io/badge/Claude-D4A27F?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-536AF5?style=for-the-badge&logoColor=white)
+![Jules](https://img.shields.io/badge/Jules-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+</div>
+
+### 🛠️ the actual toolbox
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,telegram,git,github,vscode,linux,docker,html,css,bash&theme=dark" />
+
+</div>
 
 ---
 
-<!-- ══════════════════════════════ TECH STACK ══ -->
-
-<h3 align="center">💻 &nbsp;tech stack</h3>
-
-<br/>
+### 📊 stats
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="40"/><br/>
-  <sub><b>Python</b></sub>
-</td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="40"/><br/>
-  <sub><b>Git</b></sub>
-</td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="40"/><br/>
-  <sub><b>GitHub</b></sub>
-</td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="40"/><br/>
-  <sub><b>VS Code</b></sub>
-</td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="40"/><br/>
-  <sub><b>Linux</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="40"/><br/>
-  <sub><b>Docker</b></sub>
-</td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="40"/><br/>
-  <sub><b>MongoDB</b></sub>
-</td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="40"/><br/>
-  <sub><b>HTML</b></sub>
-</td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="40"/><br/>
-  <sub><b>CSS</b></sub>
-</td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="40"/><br/>
-  <sub><b>Bash</b></sub>
-</td>
-</tr>
-</table>
-</div>
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=heyrzx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=c8b8ff&icon_color=14b882&text_color=8888aa&ring_color=6352ff&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=heyrzx&theme=tokyonight&hide_border=true&background=0d0d1a&ring=6352ff&fire=c8b8ff&currStreakLabel=c8b8ff" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyrzx&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=c8b8ff&text_color=8888aa" width="40%" />
+
+</div>
 
 ---
 
-<!-- ══════════════════════════════ STATS ══ -->
-
-<h3 align="center">📊 &nbsp;github stats</h3>
-
-<br/>
+### 🏆 trophies
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=heyrzx&show_icons=true&theme=transparent&hide_border=true&bg_color=0d0d1a&title_color=c8b8ff&icon_color=14b882&text_color=8888aa&ring_color=6352ff&count_private=true" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=heyrzx&theme=transparent&hide_border=true&background=0d0d1a&stroke=6352ff&ring=6352ff&fire=fb923c&currStreakLabel=c8b8ff&sideNums=c8b8ff&sideLabels=6666aa&dates=555577" height="165"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=heyrzx&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1" />
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyrzx&layout=donut&theme=transparent&hide_border=true&bg_color=0d0d1a&title_color=c8b8ff&text_color=8888aa&langs_count=6" height="200"/>
-</div>
-
-<br/>
 
 ---
 
-<!-- ══════════════════════════════ ACTIVITY ══ -->
-
-<h3 align="center">📈 &nbsp;activity</h3>
-
-<br/>
+### 📈 contribution snake
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heyrzx&bg_color=0d0d1a&color=c8b8ff&line=6352ff&point=14b882&area=true&area_color=6352ff&hide_border=true&custom_title=contribution+graph" width="92%"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" />
 </div>
-
-<br/>
 
 ---
 
-<!-- ══════════════════════════════ TROPHIES ══ -->
-
-<h3 align="center">🏆 &nbsp;trophies</h3>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=heyrzx&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" width="92%"/>
-</div>
-
-<br/>
-
----
-
-<!-- ══════════════════════════════ SNAKE ══ -->
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
-  </picture>
-</div>
-
-<br/>
-
----
-
-<!-- ══════════════════════════════ CONNECT ══ -->
-
-<h3 align="center">🌐 &nbsp;connect</h3>
-
-<br/>
+### 🌐 connect
 
 <div align="center">
 
-<a href="https://t.me/rzxbotz">
-  <img src="https://img.shields.io/badge/Telegram-@rzxbotz-0088cc?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d0d1a"/>
-</a>
-&ensp;
-<a href="https://github.com/heyrzx">
-  <img src="https://img.shields.io/badge/GitHub-heyrzx-c8b8ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d1a"/>
-</a>
+[![Telegram](https://img.shields.io/badge/Telegram-@rzxbots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rzxbots)
+[![GitHub](https://img.shields.io/badge/GitHub-heyrzx-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heyrzx)
 
 </div>
 
-<br/>
-<br/>
-
----
+<br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a0a3a,100:0a1a2a&height=120&section=footer&reversal=true" width="100%"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=heyrzx&color=6352ff&style=flat-square&label=profile+views)
+
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
 <div align="center">
-  <sub>crafted with 🖤 by <b>rizh</b> &nbsp;·&nbsp; © 2025</sub>
+crafted with 🖤 by <b>rizh</b> — mostly by telling AI what to do, honestly
 </div>
