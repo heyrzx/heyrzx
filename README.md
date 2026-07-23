@@ -35,7 +35,13 @@ I'm not a "learn every syntax" kind of dev — I'm the guy who knows exactly wha
 
 ---
 
-### <img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/robot.webp" width="24" align="center" /> my AI co-pilots
+### <img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/robot.webp" width="24" align="center" /> stack &amp; co-pilots
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
+
+**🤖 AI co-pilots**
 
 <table width="100%">
 <tr>
@@ -46,7 +52,7 @@ I'm not a "learn every syntax" kind of dev — I'm the guy who knows exactly wha
 </td>
 <td align="center" width="25%">
 
-<img src="https://registry.npmmirror.com/@lobehub/icons-static-webp/latest/files/dark/githubcopilot.webp" width="42" /><br/><sub><b>GitHub Copilot</b></sub>
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-webp/latest/files/dark/githubcopilot.webp" width="42" /><br/><sub><b>Copilot</b></sub>
 
 </td>
 <td align="center" width="25%">
@@ -62,9 +68,10 @@ I'm not a "learn every syntax" kind of dev — I'm the guy who knows exactly wha
 </tr>
 </table>
 
----
+</td>
+<td width="50%" valign="top" align="center">
 
-### <img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/hammer-and-wrench.webp" width="24" align="center" /> tech stack
+**🛠️ tech stack**
 
 <table width="100%">
 <tr>
@@ -86,6 +93,10 @@ I'm not a "learn every syntax" kind of dev — I'm the guy who knows exactly wha
 <td align="center" width="25%">
 
 <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="42" /><br/><sub><b>PostgreSQL</b></sub>
+
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
