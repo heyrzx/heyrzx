@@ -6,28 +6,30 @@
 
 <br>
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d1a,100:1a1a2e&text=About%20Me&fontColor=c8b8ff&fontSize=26&fontAlign=50&fontAlignY=60&height=70&animation=fadeIn" width="100%" />
+
+</div>
+
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="middle">
 
-### <img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/brain.webp" width="24" align="center" /> about me
-
-I'm not a "learn every syntax" kind of dev — I'm the guy who knows exactly what a bot *should* do, and gets **Claude**, **Copilot**, **Jules**, and **GPT** to write it while I review, test, and ship. Think of me as the product manager for a team of AI engineers that never sleeps.
+I'm not a **"learn every syntax"** kind of dev — I'm the guy who knows exactly what a bot *should* do, and gets **Claude**, **Copilot**, **Jules**, and **GPT** to write it while I review, test, and ship. Think of me as the product manager for a team of AI engineers that never sleeps.
 
 > *"First, solve the problem. Then, let the AI write the code."*
 
+<br>
+
+![Role](https://img.shields.io/badge/role-telegram_bot_builder-6352ff?style=for-the-badge&labelColor=0d0d1a)
+![Build Style](https://img.shields.io/badge/build_style-AI--orchestrated-c8b8ff?style=for-the-badge&labelColor=0d0d1a)
+![Status](https://img.shields.io/badge/status-building_something_new-14b882?style=for-the-badge&labelColor=0d0d1a)
+
 </td>
-<td width="40%" valign="top">
+<td width="45%" valign="middle" align="center">
 
-**quick info**
-
-| | |
-|---|---|
-| <img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/technologist.webp" width="18" align="center" /> role | telegram bot builder |
-| <img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/hammer-and-wrench.webp" width="18" align="center" /> build style | AI-orchestrated |
-| <img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/mobile-phone.webp" width="18" align="center" /> telegram | [@rzxbots](https://t.me/rzxbots) |
-| <img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/bullseye.webp" width="18" align="center" /> focus | bots that just work |
-| <img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/rocket.webp" width="18" align="center" /> status | building something new |
+<img src="https://graph.org/file/32263c6970e65ba77492e-b6aa256f4d9f3b04e4.jpg" width="100%" style="border-radius:12px;" />
 
 </td>
 </tr>
@@ -35,13 +37,17 @@ I'm not a "learn every syntax" kind of dev — I'm the guy who knows exactly wha
 
 ---
 
-### <img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/robot.webp" width="24" align="center" /> stack &amp; co-pilots
+<div align="center">
 
-<table width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d1a,100:1a1a2e&text=Stack%20%26%20Co-Pilots&fontColor=c8b8ff&fontSize=26&fontAlign=50&fontAlignY=60&height=70&animation=fadeIn" width="100%" />
+
+</div>
+
+<table width="100%" align="center">
 <tr>
 <td width="50%" valign="top" align="center">
 
-**🤖 AI co-pilots**
+**🤖 AI Co-Pilots**
 
 <table width="100%">
 <tr>
@@ -71,7 +77,7 @@ I'm not a "learn every syntax" kind of dev — I'm the guy who knows exactly wha
 </td>
 <td width="50%" valign="top" align="center">
 
-**🛠️ tech stack**
+**🛠️ Tech Stack**
 
 <table width="100%">
 <tr>
@@ -104,9 +110,11 @@ I'm not a "learn every syntax" kind of dev — I'm the guy who knows exactly wha
 
 ---
 
-### <img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/chart-increasing.webp" width="24" align="center" /> stats
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d1a,100:1a1a2e&text=GitHub%20Stats&fontColor=c8b8ff&fontSize=26&fontAlign=50&fontAlignY=60&height=70&animation=fadeIn" width="100%" />
+
+<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=heyrzx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=c8b8ff&icon_color=14b882&text_color=8888aa&ring_color=6352ff&count_private=true" width="49%" />
 <img src="https://streak-stats.demolab.com/?user=heyrzx&theme=tokyonight&hide_border=true&background=0d0d1a&ring=6352ff&fire=c8b8ff&currStreakLabel=c8b8ff" width="49%" />
@@ -117,20 +125,13 @@ I'm not a "learn every syntax" kind of dev — I'm the guy who knows exactly wha
 
 ---
 
-### <img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/snake.webp" width="24" align="center" /> contribution snake
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d1a,100:1a1a2e&text=Contribution%20Snake&fontColor=c8b8ff&fontSize=26&fontAlign=50&fontAlignY=60&height=70&animation=fadeIn" width="100%" />
+
+<br><br>
+
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" />
-</div>
-
----
-
-### <img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/globe-with-meridians.webp" width="24" align="center" /> connect
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-@rzxbots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rzxbots)
-[![GitHub](https://img.shields.io/badge/GitHub-heyrzx-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heyrzx)
 
 </div>
 
@@ -140,8 +141,4 @@ I'm not a "learn every syntax" kind of dev — I'm the guy who knows exactly wha
 
 ![Profile Views](https://komarev.com/ghpvc/?username=heyrzx&color=6352ff&style=flat-square&label=profile+views)
 
-</div>
-
-<div align="center">
-crafted with <img src="https://registry.npmmirror.com/@lobehub/assets-emoji/latest/files/assets/black-heart.webp" width="16" align="center" /> by <b>rizh</b> — mostly by telling AI what to do, honestly
 </div>
