@@ -14,7 +14,7 @@
 
 <table width="100%">
 <tr>
-<td width="55%" valign="middle">
+<td width="100%" valign="middle" align="center">
 
 I don't know **every syntax**,
 and I don't pretend to.
@@ -28,12 +28,7 @@ with a little *"why doesn't this work?"* in between..
 
 > *"Ideas are mine. AI just types faster."*
 
-<img src="spider.jpg" width="100%" style="border-radius:12px; margin-top:10px;" />
-
-</td>
-<td width="45%" valign="middle" align="center">
-
-<img src="cat.jpg" width="100%" style="border-radius:12px;" />
+<img src="cat.jpg" width="40%" style="border-radius:12px; margin-top:10px;" />
 
 </td>
 </tr>
