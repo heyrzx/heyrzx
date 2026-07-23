@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://files.catbox.moe/1xhgqc.jpg" width="100%" style="border-radius:16px;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=hey,%20it's%20rizh&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=telegram%20bot%20dev%20%E2%80%A2%20AI-orchestrated%20builds&descAlignY=55&descSize=18" width="100%"/>
+
+<img src="https://files.catbox.moe/r6bisa.jpg" width="100%" style="border-radius:16px;" />
 
 </div>
 
