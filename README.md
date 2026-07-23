@@ -24,17 +24,13 @@ and *code* into something that **actually works**.
 The keyboard is mostly `Ctrl+C`, `Ctrl+V`,
 with a little *"why doesn't this work?"* in between..
 
-</div>
-
-<div align="left">
-
 > *"Ideas are mine. AI just types faster."*
 
 </div>
 
 <br>
 
-<div align="centre">
+<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=heyrzx&color=6352ff&style=for-the-badge&label=PROFILE+VIEWS)
 
