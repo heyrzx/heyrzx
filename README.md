@@ -119,14 +119,6 @@ I'm not a "learn every syntax" kind of dev — I'm the guy who knows exactly wha
 
 ---
 
-### 🏆 trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=heyrzx&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</div>
-
----
-
 ### 📈 contribution snake
 
 <div align="center">
@@ -151,8 +143,6 @@ I'm not a "learn every syntax" kind of dev — I'm the guy who knows exactly wha
 ![Profile Views](https://komarev.com/ghpvc/?username=heyrzx&color=6352ff&style=flat-square&label=profile+views)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 <div align="center">
 crafted with 🖤 by <b>rizh</b> — mostly by telling AI what to do, honestly
