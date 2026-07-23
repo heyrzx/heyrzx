@@ -16,14 +16,15 @@
 <tr>
 <td width="55%" valign="middle">
 
-building telegram bots.
+I don't know every syntax,
+and I don't pretend to.
 
-AI writes half the code.
-I debug the other half.
-sometimes the bugs debug me.
+I know how to turn ideas into prompts,
+prompts into code,
+and code into something that actually works.
 
-my commits say "fix".
-the bugs say "see you tomorrow.".
+The keyboard is mostly Ctrl+C, Ctrl+V,
+with a little "why doesn't this work?" in between..
 
 > *"First, solve the problem. Then, let the AI write the code."*
 
