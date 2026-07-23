@@ -16,7 +16,8 @@
 <tr>
 <td width="55%" valign="middle">
 
-I'm not a **"learn every syntax"** kind of dev — I'm the guy who knows exactly what a bot *should* do, then gets **Claude**, **Copilot**, **Jules**, and **GPT** to build it while I architect, review, test, and ship. I spend my time thinking in systems and specs, not memorizing framework docs — the AI handles syntax, I handle judgment.
+my commits say "fix".
+the bugs say "see you tomorrow.".
 
 > *"First, solve the problem. Then, let the AI write the code."*
 
